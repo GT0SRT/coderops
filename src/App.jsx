@@ -5,7 +5,7 @@ import Hero from './components/Hero'
 
 function App() {
   return (
-    <div className='p-7'>
+    <div className='p-7 bg-amber-100'>
       <Header />
       <Hero />
       <Footer />
